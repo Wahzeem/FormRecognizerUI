@@ -21,9 +21,9 @@ class Sidebar extends React.Component {
       <li key={key}
           className="row"
           id={this.state.imgURL === val.imgPath ? "active" : ""}
-          onClick={(e)=>{this.setState({
+          onClick={(e)=>{console.log(val.invoiceData);this.setState({
             imgURL : val.imgPath,
-            invoiceInput : val.id
+            invoiceInput : val.invoiceData,
           });}}>
 
       <div id="itemId">{val.title}</div>
@@ -39,7 +39,7 @@ class Sidebar extends React.Component {
 </div>
 
 <div className="InvoiceDataArea">
-  <ValidationForm data={this.state.invoiceInput}/>
+  <ValidationForm dataInv={this.state.invoiceInput}/>
 </div>
 
 </div>

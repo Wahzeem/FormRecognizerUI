@@ -1,13 +1,19 @@
 import React from "react";
 import Button from "./Button";
-import invoiceData from "../data/InvoiceResult-project_invoice_03";
+import invoiceData from "../data/InvoiceResult-project_invoice_02";
+
+const invoiceURL = invoiceData;
 
 class ValidationForm extends React.Component {
 
   render(props){
 
+    // const current = invoiceURL + {props.dataInv}
+
     const fieldName = Object.keys(invoiceData.analyzeResult.documentResults.[0].fields);
-    // const test = docResult
+    const formData = invoiceData.analyzeResult.documentResults.[0];
+    // const invoice = props.data;
+    // console.log(invoice);
 
     const buttonClick = ()=>{
       alert("Details Saved!")
@@ -23,10 +29,8 @@ class ValidationForm extends React.Component {
 
           <div>
           <label htfor="dataInput" >{val}</label><br/>
-          <input name="dataInput" defaultValue={invoiceData.analyzeResult.documentResults.[0].fields.val}/>
+          <input name="dataInput" defaultValue={formData.fields[val].text}/>
 
-          <p onClick={()=>{console.log(invoiceData.analyzeResult.documentResults.[0].fields);}}>
-          debug</p>
           </div>
 
           </div>
