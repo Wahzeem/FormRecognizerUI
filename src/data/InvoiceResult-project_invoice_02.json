@@ -1,0 +1,1474 @@
+{
+  "status": "succeeded",
+  "createdDateTime": "2021-01-19T00:21:48Z",
+  "lastUpdatedDateTime": "2021-01-19T00:21:55Z",
+  "analyzeResult": {
+    "version": "2.1.0",
+    "readResults": [{
+      "page": 1,
+      "angle": 0,
+      "width": 1622,
+      "height": 2096,
+      "unit": "pixel",
+      "lines": [{
+        "text": "Custom Template",
+        "boundingBox": [1209, 254, 1419, 254, 1419, 281, 1209, 281],
+        "words": [{
+          "text": "Custom",
+          "boundingBox": [1209, 254, 1300, 254, 1300, 282, 1210, 281],
+          "confidence": 0.985
+        }, {
+          "text": "Template",
+          "boundingBox": [1309, 254, 1420, 255, 1420, 281, 1309, 282],
+          "confidence": 0.981
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Design",
+        "boundingBox": [1274, 283, 1357, 285, 1356, 311, 1274, 309],
+        "words": [{
+          "text": "Design",
+          "boundingBox": [1276, 283, 1357, 286, 1356, 311, 1274, 309],
+          "confidence": 0.986
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "TAX INVOICE",
+        "boundingBox": [186, 425, 492, 425, 492, 468, 186, 468],
+        "words": [{
+          "text": "TAX",
+          "boundingBox": [187, 426, 280, 425, 280, 469, 186, 468],
+          "confidence": 0.987
+        }, {
+          "text": "INVOICE",
+          "boundingBox": [289, 425, 490, 425, 490, 469, 289, 469],
+          "confidence": 0.983
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Invoice Date",
+        "boundingBox": [727, 413, 858, 414, 858, 435, 727, 434],
+        "words": [{
+          "text": "Invoice",
+          "boundingBox": [728, 414, 801, 414, 801, 435, 728, 435],
+          "confidence": 0.95
+        }, {
+          "text": "Date",
+          "boundingBox": [805, 414, 858, 414, 858, 436, 805, 435],
+          "confidence": 0.987
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Customizedt",
+        "boundingBox": [1122, 413, 1249, 413, 1249, 435, 1122, 435],
+        "words": [{
+          "text": "Customizedt",
+          "boundingBox": [1122, 414, 1249, 413, 1249, 436, 1122, 436],
+          "confidence": 0.98
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.999
+          }
+        }
+      }, {
+        "text": "23 Sep 2019",
+        "boundingBox": [730, 442, 853, 442, 853, 466, 730, 466],
+        "words": [{
+          "text": "23",
+          "boundingBox": [730, 443, 751, 443, 752, 466, 731, 466],
+          "confidence": 0.988
+        }, {
+          "text": "Sep",
+          "boundingBox": [756, 443, 794, 443, 795, 467, 757, 466],
+          "confidence": 0.987
+        }, {
+          "text": "2019",
+          "boundingBox": [799, 443, 852, 443, 853, 465, 799, 467],
+          "confidence": 0.986
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "2 Bridge Street",
+        "boundingBox": [1121, 442, 1270, 443, 1270, 466, 1121, 465],
+        "words": [{
+          "text": "2",
+          "boundingBox": [1121, 443, 1133, 443, 1133, 466, 1121, 466],
+          "confidence": 0.987
+        }, {
+          "text": "Bridge",
+          "boundingBox": [1138, 443, 1201, 444, 1201, 466, 1138, 466],
+          "confidence": 0.985
+        }, {
+          "text": "Street",
+          "boundingBox": [1205, 444, 1269, 444, 1270, 465, 1205, 466],
+          "confidence": 0.985
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Ahuriri",
+        "boundingBox": [1122, 472, 1191, 472, 1191, 494, 1122, 493],
+        "words": [{
+          "text": "Ahuriri",
+          "boundingBox": [1123, 473, 1191, 472, 1191, 495, 1123, 493],
+          "confidence": 0.982
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.999
+          }
+        }
+      }, {
+        "text": "Bayside Club",
+        "boundingBox": [215, 508, 342, 507, 342, 530, 215, 531],
+        "words": [{
+          "text": "Bayside",
+          "boundingBox": [216, 509, 290, 508, 290, 531, 216, 531],
+          "confidence": 0.984
+        }, {
+          "text": "Club",
+          "boundingBox": [294, 508, 342, 508, 341, 530, 294, 531],
+          "confidence": 0.987
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Account Number",
+        "boundingBox": [730, 502, 903, 502, 903, 523, 730, 524],
+        "words": [{
+          "text": "Account",
+          "boundingBox": [730, 503, 813, 503, 813, 524, 730, 524],
+          "confidence": 0.985
+        }, {
+          "text": "Number",
+          "boundingBox": [817, 503, 903, 502, 903, 524, 817, 524],
+          "confidence": 0.986
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Napier 4110",
+        "boundingBox": [1122, 502, 1245, 501, 1245, 523, 1122, 524],
+        "words": [{
+          "text": "Napier",
+          "boundingBox": [1122, 503, 1187, 503, 1187, 524, 1123, 524],
+          "confidence": 0.985
+        }, {
+          "text": "4110",
+          "boundingBox": [1192, 503, 1245, 502, 1245, 523, 1192, 524],
+          "confidence": 0.987
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Attention: Club Secretary",
+        "boundingBox": [217, 538, 464, 538, 464, 561, 217, 560],
+        "words": [{
+          "text": "Attention:",
+          "boundingBox": [218, 539, 315, 538, 315, 560, 218, 559],
+          "confidence": 0.981
+        }, {
+          "text": "Club",
+          "boundingBox": [319, 538, 365, 538, 365, 561, 319, 560],
+          "confidence": 0.986
+        }, {
+          "text": "Secretary",
+          "boundingBox": [369, 538, 464, 539, 464, 562, 369, 561],
+          "confidence": 0.982
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "NEW ZEALAND",
+        "boundingBox": [1122, 530, 1271, 530, 1271, 551, 1122, 551],
+        "words": [{
+          "text": "NEW",
+          "boundingBox": [1123, 531, 1169, 531, 1169, 552, 1123, 552],
+          "confidence": 0.987
+        }, {
+          "text": "ZEALAND",
+          "boundingBox": [1175, 531, 1270, 531, 1271, 552, 1175, 552],
+          "confidence": 0.984
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "P O Box 3354",
+        "boundingBox": [216, 567, 350, 567, 350, 588, 216, 588],
+        "words": [{
+          "text": "P",
+          "boundingBox": [217, 567, 228, 567, 228, 589, 217, 589],
+          "confidence": 0.986
+        }, {
+          "text": "O",
+          "boundingBox": [232, 567, 249, 567, 249, 589, 232, 589],
+          "confidence": 0.987
+        }, {
+          "text": "Box",
+          "boundingBox": [254, 567, 291, 567, 291, 589, 254, 589],
+          "confidence": 0.982
+        }, {
+          "text": "3354",
+          "boundingBox": [295, 567, 350, 567, 351, 589, 295, 589],
+          "confidence": 0.944
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.999
+          }
+        }
+      }, {
+        "text": "South Mailing Centre",
+        "boundingBox": [215, 595, 425, 596, 425, 619, 215, 618],
+        "words": [{
+          "text": "South",
+          "boundingBox": [216, 596, 272, 596, 272, 619, 216, 618],
+          "confidence": 0.986
+        }, {
+          "text": "Mailing",
+          "boundingBox": [276, 596, 351, 597, 351, 620, 276, 619],
+          "confidence": 0.945
+        }, {
+          "text": "Centre",
+          "boundingBox": [355, 597, 426, 597, 426, 620, 356, 620],
+          "confidence": 0.986
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Invoice Number",
+        "boundingBox": [729, 590, 892, 590, 892, 611, 729, 611],
+        "words": [{
+          "text": "Invoice",
+          "boundingBox": [730, 591, 801, 590, 801, 611, 730, 612],
+          "confidence": 0.961
+        }, {
+          "text": "Number",
+          "boundingBox": [805, 590, 892, 590, 892, 612, 805, 611],
+          "confidence": 0.985
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Ridge Heights 6001",
+        "boundingBox": [217, 625, 406, 625, 406, 649, 217, 649],
+        "words": [{
+          "text": "Ridge",
+          "boundingBox": [217, 625, 268, 626, 268, 650, 217, 649],
+          "confidence": 0.986
+        }, {
+          "text": "Heights",
+          "boundingBox": [272, 626, 348, 626, 349, 649, 273, 650],
+          "confidence": 0.985
+        }, {
+          "text": "6001",
+          "boundingBox": [353, 626, 405, 625, 406, 648, 354, 649],
+          "confidence": 0.987
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "INV-0047",
+        "boundingBox": [730, 618, 824, 618, 824, 639, 730, 639],
+        "words": [{
+          "text": "INV-0047",
+          "boundingBox": [731, 619, 824, 619, 824, 640, 731, 639],
+          "confidence": 0.981
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Madeupville",
+        "boundingBox": [216, 655, 340, 655, 340, 678, 216, 678],
+        "words": [{
+          "text": "Madeupville",
+          "boundingBox": [217, 655, 340, 655, 340, 679, 217, 678],
+          "confidence": 0.979
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "NEW ZEALAND",
+        "boundingBox": [216, 683, 364, 683, 364, 706, 216, 706],
+        "words": [{
+          "text": "NEW",
+          "boundingBox": [216, 684, 264, 684, 264, 706, 217, 707],
+          "confidence": 0.987
+        }, {
+          "text": "ZEALAND",
+          "boundingBox": [269, 684, 364, 685, 364, 706, 269, 706],
+          "confidence": 0.985
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Reference",
+        "boundingBox": [729, 678, 833, 678, 833, 699, 729, 699],
+        "words": [{
+          "text": "Reference",
+          "boundingBox": [730, 678, 833, 679, 833, 700, 730, 700],
+          "confidence": 0.979
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "GST Number: 90-987-789",
+        "boundingBox": [216, 713, 466, 713, 466, 734, 216, 735],
+        "words": [{
+          "text": "GST",
+          "boundingBox": [217, 714, 253, 714, 253, 735, 217, 735],
+          "confidence": 0.987
+        }, {
+          "text": "Number:",
+          "boundingBox": [258, 714, 346, 714, 346, 736, 257, 735],
+          "confidence": 0.985
+        }, {
+          "text": "90-987-789",
+          "boundingBox": [350, 714, 466, 713, 466, 735, 350, 736],
+          "confidence": 0.981
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "GB1 - WHITE",
+        "boundingBox": [730, 707, 859, 707, 859, 728, 730, 728],
+        "words": [{
+          "text": "GB1",
+          "boundingBox": [730, 708, 768, 708, 768, 728, 730, 729],
+          "confidence": 0.985
+        }, {
+          "text": "-",
+          "boundingBox": [772, 708, 783, 708, 783, 728, 772, 728],
+          "confidence": 0.986
+        }, {
+          "text": "WHITE",
+          "boundingBox": [787, 708, 858, 707, 858, 729, 787, 728],
+          "confidence": 0.986
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "GST Number",
+        "boundingBox": [729, 766, 859, 766, 859, 787, 729, 787],
+        "words": [{
+          "text": "GST",
+          "boundingBox": [729, 766, 767, 767, 767, 788, 729, 788],
+          "confidence": 0.983
+        }, {
+          "text": "Number",
+          "boundingBox": [771, 767, 858, 767, 858, 788, 771, 788],
+          "confidence": 0.985
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "111-111-111",
+        "boundingBox": [729, 795, 858, 795, 858, 816, 729, 817],
+        "words": [{
+          "text": "111-111-111",
+          "boundingBox": [730, 796, 858, 796, 858, 817, 729, 817],
+          "confidence": 0.981
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Description",
+        "boundingBox": [186, 894, 316, 893, 316, 918, 186, 919],
+        "words": [{
+          "text": "Description",
+          "boundingBox": [187, 895, 316, 894, 316, 919, 187, 918],
+          "confidence": 0.981
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Quantity",
+        "boundingBox": [898, 894, 999, 894, 999, 919, 898, 918],
+        "words": [{
+          "text": "Quantity",
+          "boundingBox": [898, 894, 1000, 895, 1000, 920, 899, 919],
+          "confidence": 0.984
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Unit Price",
+        "boundingBox": [1114, 893, 1227, 893, 1227, 916, 1114, 916],
+        "words": [{
+          "text": "Unit",
+          "boundingBox": [1115, 893, 1164, 894, 1164, 917, 1115, 917],
+          "confidence": 0.987
+        }, {
+          "text": "Price",
+          "boundingBox": [1168, 894, 1226, 893, 1226, 917, 1168, 917],
+          "confidence": 0.986
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Amount NZD",
+        "boundingBox": [1292, 894, 1441, 892, 1441, 916, 1292, 917],
+        "words": [{
+          "text": "Amount",
+          "boundingBox": [1292, 895, 1383, 894, 1382, 916, 1292, 917],
+          "confidence": 0.985
+        }, {
+          "text": "NZD",
+          "boundingBox": [1387, 894, 1440, 893, 1439, 917, 1387, 916],
+          "confidence": 0.987
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "GB1-White, Golf balls - white single.",
+        "boundingBox": [186, 942, 539, 943, 539, 967, 186, 965],
+        "words": [{
+          "text": "GB1-White,",
+          "boundingBox": [186, 944, 300, 943, 301, 966, 187, 965],
+          "confidence": 0.975
+        }, {
+          "text": "Golf",
+          "boundingBox": [304, 943, 345, 943, 345, 967, 305, 967],
+          "confidence": 0.987
+        }, {
+          "text": "balls",
+          "boundingBox": [349, 943, 394, 943, 394, 967, 350, 967],
+          "confidence": 0.985
+        }, {
+          "text": "-",
+          "boundingBox": [398, 943, 408, 943, 408, 967, 398, 967],
+          "confidence": 0.987
+        }, {
+          "text": "white",
+          "boundingBox": [412, 943, 468, 944, 468, 967, 412, 967],
+          "confidence": 0.986
+        }, {
+          "text": "single.",
+          "boundingBox": [473, 944, 539, 944, 538, 967, 473, 967],
+          "confidence": 0.981
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Please reorder with code GB1-",
+        "boundingBox": [187, 973, 484, 972, 484, 995, 187, 995],
+        "words": [{
+          "text": "Please",
+          "boundingBox": [187, 974, 248, 973, 247, 995, 187, 995],
+          "confidence": 0.986
+        }, {
+          "text": "reorder",
+          "boundingBox": [252, 973, 330, 973, 330, 996, 252, 995],
+          "confidence": 0.959
+        }, {
+          "text": "with",
+          "boundingBox": [334, 973, 377, 973, 377, 996, 334, 996],
+          "confidence": 0.982
+        }, {
+          "text": "code",
+          "boundingBox": [382, 973, 432, 973, 432, 995, 381, 996],
+          "confidence": 0.987
+        }, {
+          "text": "GB1-",
+          "boundingBox": [436, 973, 485, 972, 485, 995, 436, 995],
+          "confidence": 0.985
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "100.00",
+        "boundingBox": [930, 973, 998, 972, 998, 993, 930, 994],
+        "words": [{
+          "text": "100.00",
+          "boundingBox": [931, 974, 999, 973, 999, 994, 931, 994],
+          "confidence": 0.985
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "5.60",
+        "boundingBox": [1181, 974, 1226, 973, 1226, 993, 1181, 994],
+        "words": [{
+          "text": "5.60",
+          "boundingBox": [1181, 974, 1225, 973, 1225, 993, 1181, 994],
+          "confidence": 0.986
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "560.00",
+        "boundingBox": [1370, 973, 1438, 972, 1438, 994, 1370, 994],
+        "words": [{
+          "text": "560.00",
+          "boundingBox": [1370, 974, 1438, 972, 1439, 995, 1370, 995],
+          "confidence": 0.983
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "White",
+        "boundingBox": [187, 1002, 250, 1003, 250, 1024, 187, 1022],
+        "words": [{
+          "text": "White",
+          "boundingBox": [187, 1003, 250, 1004, 250, 1024, 188, 1023],
+          "confidence": 0.986
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Subtotal",
+        "boundingBox": [1141, 1047, 1227, 1048, 1226, 1068, 1141, 1068],
+        "words": [{
+          "text": "Subtotal",
+          "boundingBox": [1142, 1048, 1226, 1049, 1226, 1069, 1142, 1069],
+          "confidence": 0.983
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "486.96",
+        "boundingBox": [1368, 1047, 1438, 1047, 1438, 1067, 1368, 1068],
+        "words": [{
+          "text": "486.96",
+          "boundingBox": [1369, 1048, 1438, 1048, 1438, 1068, 1369, 1068],
+          "confidence": 0.983
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Total GST 15%",
+        "boundingBox": [1085, 1091, 1227, 1091, 1227, 1113, 1085, 1113],
+        "words": [{
+          "text": "Total",
+          "boundingBox": [1086, 1092, 1134, 1092, 1134, 1114, 1086, 1113],
+          "confidence": 0.984
+        }, {
+          "text": "GST",
+          "boundingBox": [1138, 1092, 1180, 1092, 1179, 1114, 1138, 1114],
+          "confidence": 0.986
+        }, {
+          "text": "15%",
+          "boundingBox": [1184, 1092, 1228, 1092, 1227, 1113, 1183, 1114],
+          "confidence": 0.983
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "73.04",
+        "boundingBox": [1382, 1092, 1438, 1091, 1438, 1112, 1382, 1113],
+        "words": [{
+          "text": "73.04",
+          "boundingBox": [1382, 1092, 1438, 1091, 1438, 1112, 1382, 1113],
+          "confidence": 0.985
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Invoice Total NZD",
+        "boundingBox": [1051, 1137, 1227, 1137, 1227, 1158, 1051, 1159],
+        "words": [{
+          "text": "Invoice",
+          "boundingBox": [1052, 1138, 1123, 1138, 1122, 1159, 1052, 1159],
+          "confidence": 0.948
+        }, {
+          "text": "Total",
+          "boundingBox": [1127, 1138, 1178, 1137, 1178, 1159, 1127, 1159],
+          "confidence": 0.983
+        }, {
+          "text": "NZD",
+          "boundingBox": [1182, 1137, 1228, 1137, 1227, 1159, 1182, 1159],
+          "confidence": 0.987
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "560.00",
+        "boundingBox": [1369, 1137, 1438, 1137, 1438, 1159, 1369, 1159],
+        "words": [{
+          "text": "560.00",
+          "boundingBox": [1370, 1138, 1438, 1137, 1438, 1160, 1370, 1159],
+          "confidence": 0.985
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Total Net Payments",
+        "boundingBox": [1030, 1182, 1227, 1183, 1226, 1205, 1030, 1203],
+        "words": [{
+          "text": "Total",
+          "boundingBox": [1032, 1182, 1081, 1182, 1081, 1204, 1032, 1204],
+          "confidence": 0.986
+        }, {
+          "text": "Net",
+          "boundingBox": [1085, 1182, 1124, 1182, 1124, 1205, 1085, 1204],
+          "confidence": 0.987
+        }, {
+          "text": "Payments",
+          "boundingBox": [1128, 1182, 1227, 1184, 1226, 1205, 1128, 1205],
+          "confidence": 0.984
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "NZD",
+        "boundingBox": [1182, 1211, 1226, 1212, 1226, 1232, 1182, 1231],
+        "words": [{
+          "text": "NZD",
+          "boundingBox": [1182, 1211, 1226, 1212, 1226, 1232, 1182, 1231],
+          "confidence": 0.987
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "0.00",
+        "boundingBox": [1393, 1197, 1438, 1196, 1438, 1218, 1393, 1217],
+        "words": [{
+          "text": "0.00",
+          "boundingBox": [1393, 1196, 1437, 1196, 1437, 1218, 1393, 1218],
+          "confidence": 0.981
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.999
+          }
+        }
+      }, {
+        "text": "Amount Due NZD",
+        "boundingBox": [1048, 1257, 1226, 1256, 1226, 1277, 1049, 1278],
+        "words": [{
+          "text": "Amount",
+          "boundingBox": [1049, 1258, 1130, 1257, 1130, 1278, 1049, 1279],
+          "confidence": 0.985
+        }, {
+          "text": "Due",
+          "boundingBox": [1135, 1257, 1177, 1257, 1177, 1278, 1135, 1278],
+          "confidence": 0.987
+        }, {
+          "text": "NZD",
+          "boundingBox": [1181, 1256, 1226, 1256, 1225, 1278, 1181, 1278],
+          "confidence": 0.984
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "560.00",
+        "boundingBox": [1368, 1256, 1439, 1256, 1439, 1276, 1368, 1277],
+        "words": [{
+          "text": "560.00",
+          "boundingBox": [1369, 1257, 1439, 1256, 1438, 1277, 1369, 1277],
+          "confidence": 0.985
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Due Date: 23 Oct 2019",
+        "boundingBox": [186, 1358, 437, 1357, 438, 1380, 186, 1382],
+        "words": [{
+          "text": "Due",
+          "boundingBox": [187, 1359, 231, 1359, 231, 1382, 187, 1382],
+          "confidence": 0.987
+        }, {
+          "text": "Date:",
+          "boundingBox": [236, 1359, 298, 1359, 298, 1382, 236, 1382],
+          "confidence": 0.979
+        }, {
+          "text": "23",
+          "boundingBox": [302, 1359, 332, 1359, 332, 1382, 302, 1382],
+          "confidence": 0.988
+        }, {
+          "text": "Oct",
+          "boundingBox": [336, 1359, 376, 1358, 376, 1381, 336, 1382],
+          "confidence": 0.984
+        }, {
+          "text": "2019",
+          "boundingBox": [381, 1358, 437, 1357, 437, 1381, 381, 1381],
+          "confidence": 0.983
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "PAYMENT ADVICE",
+        "boundingBox": [189, 1654, 617, 1654, 617, 1697, 189, 1697],
+        "words": [{
+          "text": "PAYMENT",
+          "boundingBox": [191, 1655, 428, 1654, 427, 1698, 190, 1698],
+          "confidence": 0.985
+        }, {
+          "text": "ADVICE",
+          "boundingBox": [436, 1655, 618, 1655, 618, 1698, 436, 1698],
+          "confidence": 0.985
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Customer",
+        "boundingBox": [789, 1651, 890, 1652, 890, 1673, 789, 1672],
+        "words": [{
+          "text": "Customer",
+          "boundingBox": [790, 1652, 889, 1653, 890, 1674, 790, 1673],
+          "confidence": 0.984
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Bayside Club",
+        "boundingBox": [1005, 1651, 1132, 1650, 1133, 1673, 1006, 1674],
+        "words": [{
+          "text": "Bayside",
+          "boundingBox": [1006, 1652, 1079, 1651, 1079, 1674, 1006, 1675],
+          "confidence": 0.984
+        }, {
+          "text": "Club",
+          "boundingBox": [1083, 1651, 1133, 1651, 1132, 1673, 1083, 1674],
+          "confidence": 0.987
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Invoice Number",
+        "boundingBox": [789, 1695, 955, 1695, 955, 1716, 789, 1716],
+        "words": [{
+          "text": "Invoice",
+          "boundingBox": [789, 1695, 863, 1696, 864, 1717, 790, 1717],
+          "confidence": 0.953
+        }, {
+          "text": "Number",
+          "boundingBox": [867, 1696, 955, 1695, 955, 1717, 868, 1717],
+          "confidence": 0.986
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "INV-0047",
+        "boundingBox": [1004, 1694, 1098, 1694, 1098, 1716, 1004, 1716],
+        "words": [{
+          "text": "INV-0047",
+          "boundingBox": [1005, 1695, 1097, 1695, 1097, 1717, 1005, 1716],
+          "confidence": 0.978
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "To: Customizedt",
+        "boundingBox": [219, 1730, 407, 1730, 407, 1752, 219, 1752],
+        "words": [{
+          "text": "To:",
+          "boundingBox": [221, 1731, 263, 1731, 263, 1752, 221, 1752],
+          "confidence": 0.986
+        }, {
+          "text": "Customizedt",
+          "boundingBox": [279, 1731, 407, 1730, 407, 1752, 279, 1753],
+          "confidence": 0.979
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.999
+          }
+        }
+      }, {
+        "text": "2 Bridge Street",
+        "boundingBox": [280, 1759, 429, 1760, 428, 1782, 280, 1781],
+        "words": [{
+          "text": "2",
+          "boundingBox": [281, 1760, 292, 1760, 292, 1782, 280, 1782],
+          "confidence": 0.987
+        }, {
+          "text": "Bridge",
+          "boundingBox": [297, 1760, 360, 1760, 360, 1782, 296, 1782],
+          "confidence": 0.985
+        }, {
+          "text": "Street",
+          "boundingBox": [365, 1760, 428, 1761, 428, 1782, 364, 1782],
+          "confidence": 0.985
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Amount Due",
+        "boundingBox": [790, 1741, 919, 1741, 919, 1761, 790, 1761],
+        "words": [{
+          "text": "Amount",
+          "boundingBox": [790, 1741, 874, 1741, 873, 1762, 790, 1762],
+          "confidence": 0.985
+        }, {
+          "text": "Due",
+          "boundingBox": [877, 1741, 920, 1742, 920, 1762, 877, 1762],
+          "confidence": 0.97
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "560.00",
+        "boundingBox": [1005, 1740, 1075, 1740, 1076, 1760, 1005, 1761],
+        "words": [{
+          "text": "560.00",
+          "boundingBox": [1005, 1741, 1075, 1741, 1075, 1761, 1005, 1762],
+          "confidence": 0.985
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Ahuriri",
+        "boundingBox": [281, 1788, 350, 1788, 350, 1810, 281, 1810],
+        "words": [{
+          "text": "Ahuriri",
+          "boundingBox": [281, 1789, 350, 1789, 350, 1811, 281, 1811],
+          "confidence": 0.982
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.999
+          }
+        }
+      }, {
+        "text": "Due Date",
+        "boundingBox": [790, 1784, 887, 1785, 887, 1806, 790, 1806],
+        "words": [{
+          "text": "Due",
+          "boundingBox": [790, 1785, 831, 1785, 831, 1807, 790, 1806],
+          "confidence": 0.987
+        }, {
+          "text": "Date",
+          "boundingBox": [835, 1785, 887, 1785, 887, 1807, 835, 1807],
+          "confidence": 0.987
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "23 Oct 2019",
+        "boundingBox": [1002, 1784, 1126, 1784, 1126, 1805, 1002, 1806],
+        "words": [{
+          "text": "23",
+          "boundingBox": [1004, 1785, 1029, 1785, 1030, 1807, 1005, 1807],
+          "confidence": 0.981
+        }, {
+          "text": "Oct",
+          "boundingBox": [1034, 1785, 1069, 1785, 1070, 1806, 1035, 1807],
+          "confidence": 0.983
+        }, {
+          "text": "2019",
+          "boundingBox": [1073, 1785, 1126, 1784, 1126, 1806, 1074, 1806],
+          "confidence": 0.983
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Napier 4110",
+        "boundingBox": [281, 1819, 403, 1818, 403, 1840, 281, 1841],
+        "words": [{
+          "text": "Napier",
+          "boundingBox": [281, 1819, 346, 1819, 345, 1841, 281, 1842],
+          "confidence": 0.982
+        }, {
+          "text": "4110",
+          "boundingBox": [351, 1819, 402, 1818, 401, 1841, 350, 1841],
+          "confidence": 0.987
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "NEW ZEALAND",
+        "boundingBox": [281, 1847, 427, 1847, 427, 1868, 281, 1868],
+        "words": [{
+          "text": "NEW",
+          "boundingBox": [282, 1849, 328, 1848, 328, 1869, 282, 1869],
+          "confidence": 0.987
+        }, {
+          "text": "ZEALAND",
+          "boundingBox": [334, 1848, 427, 1848, 427, 1869, 334, 1869],
+          "confidence": 0.984
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Amount Enclosed",
+        "boundingBox": [789, 1829, 968, 1828, 969, 1850, 789, 1851],
+        "words": [{
+          "text": "Amount",
+          "boundingBox": [790, 1830, 872, 1829, 872, 1851, 790, 1851],
+          "confidence": 0.985
+        }, {
+          "text": "Enclosed",
+          "boundingBox": [876, 1829, 969, 1829, 969, 1851, 876, 1851],
+          "confidence": 0.984
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Enter the amount you are paying above",
+        "boundingBox": [1004, 1873, 1352, 1873, 1352, 1895, 1004, 1894],
+        "words": [{
+          "text": "Enter",
+          "boundingBox": [1005, 1874, 1051, 1874, 1050, 1894, 1005, 1893],
+          "confidence": 0.986
+        }, {
+          "text": "the",
+          "boundingBox": [1054, 1874, 1085, 1874, 1085, 1894, 1054, 1894],
+          "confidence": 0.987
+        }, {
+          "text": "amount",
+          "boundingBox": [1089, 1873, 1159, 1873, 1158, 1895, 1089, 1894],
+          "confidence": 0.985
+        }, {
+          "text": "you",
+          "boundingBox": [1162, 1873, 1196, 1873, 1195, 1895, 1162, 1895],
+          "confidence": 0.987
+        }, {
+          "text": "are",
+          "boundingBox": [1200, 1873, 1229, 1873, 1229, 1895, 1199, 1895],
+          "confidence": 0.984
+        }, {
+          "text": "paying",
+          "boundingBox": [1233, 1873, 1291, 1873, 1291, 1895, 1233, 1895],
+          "confidence": 0.985
+        }, {
+          "text": "above",
+          "boundingBox": [1295, 1873, 1352, 1874, 1352, 1895, 1295, 1895],
+          "confidence": 0.983
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Registered Office: 2 Bridge Street, Ahuriri, Napier, 4110, New Zealand",
+        "boundingBox": [186, 2010, 717, 2010, 717, 2030, 186, 2031],
+        "words": [{
+          "text": "Registered",
+          "boundingBox": [187, 2012, 266, 2011, 266, 2032, 186, 2031],
+          "confidence": 0.98
+        }, {
+          "text": "Office:",
+          "boundingBox": [270, 2011, 322, 2011, 321, 2032, 270, 2032],
+          "confidence": 0.982
+        }, {
+          "text": "2",
+          "boundingBox": [325, 2011, 334, 2011, 334, 2032, 325, 2032],
+          "confidence": 0.987
+        }, {
+          "text": "Bridge",
+          "boundingBox": [338, 2011, 387, 2010, 387, 2032, 338, 2032],
+          "confidence": 0.985
+        }, {
+          "text": "Street,",
+          "boundingBox": [391, 2010, 443, 2010, 442, 2032, 391, 2032],
+          "confidence": 0.968
+        }, {
+          "text": "Ahuriri,",
+          "boundingBox": [447, 2010, 503, 2010, 503, 2032, 446, 2032],
+          "confidence": 0.959
+        }, {
+          "text": "Napier,",
+          "boundingBox": [507, 2010, 563, 2010, 562, 2031, 507, 2032],
+          "confidence": 0.982
+        }, {
+          "text": "4110,",
+          "boundingBox": [566, 2010, 611, 2010, 610, 2031, 566, 2031],
+          "confidence": 0.952
+        }, {
+          "text": "New",
+          "boundingBox": [614, 2011, 650, 2011, 649, 2031, 614, 2031],
+          "confidence": 0.987
+        }, {
+          "text": "Zealand",
+          "boundingBox": [653, 2011, 716, 2011, 716, 2031, 653, 2031],
+          "confidence": 0.984
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.999
+          }
+        }
+      }]
+    }],
+    "pageResults": [{
+      "page": 1,
+      "tables": [{
+        "rows": 4,
+        "columns": 4,
+        "cells": [{
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "text": "Description",
+          "boundingBox": [176, 882, 716, 882, 716, 931, 175, 930],
+          "elements": ["#/readResults/0/lines/25/words/0"]
+        }, {
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "text": "Quantity",
+          "boundingBox": [716, 882, 1058, 882, 1058, 931, 716, 931],
+          "elements": ["#/readResults/0/lines/26/words/0"]
+        }, {
+          "rowIndex": 0,
+          "columnIndex": 2,
+          "text": "Unit Price",
+          "boundingBox": [1058, 882, 1260, 882, 1260, 931, 1058, 931],
+          "elements": ["#/readResults/0/lines/27/words/0", "#/readResults/0/lines/27/words/1"]
+        }, {
+          "rowIndex": 0,
+          "columnIndex": 3,
+          "text": "Amount NZD",
+          "boundingBox": [1260, 882, 1446, 882, 1446, 931, 1260, 931],
+          "elements": ["#/readResults/0/lines/28/words/0", "#/readResults/0/lines/28/words/1"]
+        }, {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "text": "GB1-White, Golf balls - white single.",
+          "boundingBox": [175, 930, 716, 931, 717, 969, 175, 969],
+          "elements": ["#/readResults/0/lines/29/words/0", "#/readResults/0/lines/29/words/1", "#/readResults/0/lines/29/words/2", "#/readResults/0/lines/29/words/3", "#/readResults/0/lines/29/words/4", "#/readResults/0/lines/29/words/5"]
+        }, {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "boundingBox": [716, 931, 1058, 931, 1058, 968, 717, 969],
+          "text": "",
+          "elements": []
+        }, {
+          "rowIndex": 1,
+          "columnIndex": 2,
+          "boundingBox": [1058, 931, 1260, 931, 1260, 968, 1058, 968],
+          "text": "",
+          "elements": []
+        }, {
+          "rowIndex": 1,
+          "columnIndex": 3,
+          "boundingBox": [1260, 931, 1446, 931, 1446, 969, 1260, 968],
+          "text": "",
+          "elements": []
+        }, {
+          "rowIndex": 2,
+          "columnIndex": 0,
+          "rowSpan": 2,
+          "text": "Please reorder with code GB1- White",
+          "boundingBox": [175, 969, 717, 969, 719, 1035, 175, 1034],
+          "elements": ["#/readResults/0/lines/30/words/0", "#/readResults/0/lines/30/words/1", "#/readResults/0/lines/30/words/2", "#/readResults/0/lines/30/words/3", "#/readResults/0/lines/30/words/4", "#/readResults/0/lines/34/words/0"]
+        }, {
+          "rowIndex": 2,
+          "columnIndex": 1,
+          "text": "100.00",
+          "boundingBox": [717, 969, 1058, 968, 1058, 999, 717, 999],
+          "elements": ["#/readResults/0/lines/31/words/0"]
+        }, {
+          "rowIndex": 2,
+          "columnIndex": 2,
+          "text": "5.60",
+          "boundingBox": [1058, 968, 1260, 968, 1260, 999, 1058, 999],
+          "elements": ["#/readResults/0/lines/32/words/0"]
+        }, {
+          "rowIndex": 2,
+          "columnIndex": 3,
+          "text": "560.00",
+          "boundingBox": [1260, 968, 1446, 969, 1447, 999, 1260, 999],
+          "elements": ["#/readResults/0/lines/33/words/0"]
+        }, {
+          "rowIndex": 3,
+          "columnIndex": 1,
+          "boundingBox": [717, 999, 1058, 999, 1058, 1035, 719, 1035],
+          "text": "",
+          "elements": []
+        }, {
+          "rowIndex": 3,
+          "columnIndex": 2,
+          "boundingBox": [1058, 999, 1260, 999, 1261, 1035, 1058, 1035],
+          "text": "",
+          "elements": []
+        }, {
+          "rowIndex": 3,
+          "columnIndex": 3,
+          "boundingBox": [1260, 999, 1447, 999, 1447, 1035, 1261, 1035],
+          "text": "",
+          "elements": []
+        }],
+        "boundingBox": [178, 885, 1446, 885, 1446, 1038, 177, 1038]
+      }]
+    }],
+    "documentResults": [{
+      "docType": "prebuilt:invoice",
+      "pageRange": [1, 1],
+      "fields": {
+        "AmountDue": {
+          "type": "number",
+          "valueNumber": 560,
+          "text": "560.00",
+          "boundingBox": [1369, 1257, 1439, 1256, 1438, 1277, 1369, 1277],
+          "page": 1,
+          "confidence": 0.989,
+          "elements": ["#/readResults/0/lines/45/words/0"]
+        },
+        "CustomerAddress": {
+          "type": "string",
+          "valueString": "P O Box 3354 South Mailing Centre Ridge Heights 6001 Madeupville NEW ZEALAND",
+          "text": "P O Box 3354 South Mailing Centre Ridge Heights 6001 Madeupville NEW ZEALAND",
+          "boundingBox": [216, 567, 426, 567, 426, 707, 216, 707],
+          "page": 1,
+          "confidence": 0.896,
+          "elements": ["#/readResults/0/lines/13/words/0", "#/readResults/0/lines/13/words/1", "#/readResults/0/lines/13/words/2", "#/readResults/0/lines/13/words/3", "#/readResults/0/lines/14/words/0", "#/readResults/0/lines/14/words/1", "#/readResults/0/lines/14/words/2", "#/readResults/0/lines/16/words/0", "#/readResults/0/lines/16/words/1", "#/readResults/0/lines/16/words/2", "#/readResults/0/lines/18/words/0", "#/readResults/0/lines/19/words/0", "#/readResults/0/lines/19/words/1"]
+        },
+        "CustomerAddressRecipient": {
+          "type": "string",
+          "valueString": "Bayside Club Attention: Club Secretary",
+          "text": "Bayside Club Attention: Club Secretary",
+          "boundingBox": [216, 508, 464, 508, 464, 562, 216, 562],
+          "page": 1,
+          "confidence": 0.959,
+          "elements": ["#/readResults/0/lines/8/words/0", "#/readResults/0/lines/8/words/1", "#/readResults/0/lines/11/words/0", "#/readResults/0/lines/11/words/1", "#/readResults/0/lines/11/words/2"]
+        },
+        "CustomerId": {
+          "type": "string",
+          "valueString": "Bayside",
+          "text": "Bayside",
+          "boundingBox": [1006, 1652, 1079, 1651, 1079, 1674, 1006, 1675],
+          "page": 1,
+          "confidence": 0.59,
+          "elements": ["#/readResults/0/lines/49/words/0"]
+        },
+        "CustomerName": {
+          "type": "string",
+          "valueString": "Club",
+          "text": "Club",
+          "boundingBox": [1083, 1651, 1133, 1651, 1132, 1673, 1083, 1674],
+          "page": 1,
+          "confidence": 0.486,
+          "elements": ["#/readResults/0/lines/49/words/1"]
+        },
+        "DueDate": {
+          "type": "date",
+          "valueDate": "2019-10-23",
+          "text": "23 Oct 2019",
+          "boundingBox": [1004, 1785, 1126, 1783.8, 1126.2, 1806.1, 1004.2, 1807.3],
+          "page": 1,
+          "confidence": 0.992,
+          "elements": ["#/readResults/0/lines/58/words/0", "#/readResults/0/lines/58/words/1", "#/readResults/0/lines/58/words/2"]
+        },
+        "InvoiceDate": {
+          "type": "date",
+          "valueDate": "2019-09-23",
+          "text": "23 Sep 2019",
+          "boundingBox": [730, 443, 853, 443, 853, 467, 730, 467],
+          "page": 1,
+          "confidence": 0.994,
+          "elements": ["#/readResults/0/lines/5/words/0", "#/readResults/0/lines/5/words/1", "#/readResults/0/lines/5/words/2"]
+        },
+        "InvoiceId": {
+          "type": "string",
+          "valueString": "INV-0047",
+          "text": "INV-0047",
+          "boundingBox": [1005, 1695, 1097, 1695, 1097, 1717, 1005, 1716],
+          "page": 1,
+          "confidence": 0.997,
+          "elements": ["#/readResults/0/lines/51/words/0"]
+        },
+        "InvoiceTotal": {
+          "type": "number",
+          "valueNumber": 560,
+          "text": "560.00",
+          "boundingBox": [1370, 1138, 1438, 1137, 1438, 1160, 1370, 1159],
+          "page": 1,
+          "confidence": 0.966,
+          "elements": ["#/readResults/0/lines/40/words/0"]
+        },
+        "RemittanceAddress": {
+          "type": "string",
+          "valueString": "2 Bridge Street Ahuriri Napier 4110 NEW ZEALAND",
+          "text": "2 Bridge Street Ahuriri Napier 4110 NEW ZEALAND",
+          "boundingBox": [280, 1760, 428, 1760, 428, 1869, 280, 1869],
+          "page": 1,
+          "confidence": 0.964,
+          "elements": ["#/readResults/0/lines/53/words/0", "#/readResults/0/lines/53/words/1", "#/readResults/0/lines/53/words/2", "#/readResults/0/lines/56/words/0", "#/readResults/0/lines/59/words/0", "#/readResults/0/lines/59/words/1", "#/readResults/0/lines/60/words/0", "#/readResults/0/lines/60/words/1"]
+        },
+        "RemittanceAddressRecipient": {
+          "type": "string",
+          "valueString": "Customizedt",
+          "text": "Customizedt",
+          "boundingBox": [279, 1731, 407, 1730, 407, 1752, 279, 1753],
+          "page": 1,
+          "confidence": 0.988,
+          "elements": ["#/readResults/0/lines/52/words/1"]
+        },
+        "SubTotal": {
+          "type": "number",
+          "valueNumber": 486.96,
+          "text": "486.96",
+          "boundingBox": [1369, 1048, 1438, 1048, 1438, 1068, 1369, 1068],
+          "page": 1,
+          "confidence": 0.995,
+          "elements": ["#/readResults/0/lines/36/words/0"]
+        },
+        "TotalTax": {
+          "type": "number",
+          "valueNumber": 73.04,
+          "text": "73.04",
+          "boundingBox": [1382, 1092, 1438, 1091, 1438, 1112, 1382, 1113],
+          "page": 1,
+          "confidence": 0.999,
+          "elements": ["#/readResults/0/lines/38/words/0"]
+        },
+        "VendorAddress": {
+          "type": "string",
+          "valueString": "2 Bridge Street Ahuriri Napier 4110 NEW ZEALAND",
+          "text": "2 Bridge Street Ahuriri Napier 4110 NEW ZEALAND",
+          "boundingBox": [1121, 443, 1271, 443, 1271, 552, 1121, 552],
+          "page": 1,
+          "confidence": 0.419,
+          "elements": ["#/readResults/0/lines/6/words/0", "#/readResults/0/lines/6/words/1", "#/readResults/0/lines/6/words/2", "#/readResults/0/lines/7/words/0", "#/readResults/0/lines/10/words/0", "#/readResults/0/lines/10/words/1", "#/readResults/0/lines/12/words/0", "#/readResults/0/lines/12/words/1"]
+        },
+        "VendorAddressRecipient": {
+          "type": "string",
+          "valueString": "Customizedt",
+          "text": "Customizedt",
+          "boundingBox": [1122, 414, 1249, 413, 1249, 436, 1122, 436],
+          "page": 1,
+          "confidence": 0.271,
+          "elements": ["#/readResults/0/lines/4/words/0"]
+        },
+        "VendorName": {
+          "type": "string",
+          "valueString": "Customizedt",
+          "text": "Customizedt",
+          "boundingBox": [1122, 414, 1249, 413, 1249, 436, 1122, 436],
+          "page": 1,
+          "confidence": 0.271,
+          "elements": ["#/readResults/0/lines/4/words/0"]
+        }
+      }
+    }]
+  }
+}

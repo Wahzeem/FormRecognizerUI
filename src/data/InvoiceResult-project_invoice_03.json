@@ -1,0 +1,1597 @@
+{
+  "status": "succeeded",
+  "createdDateTime": "2021-01-19T00:22:30Z",
+  "lastUpdatedDateTime": "2021-01-19T00:22:37Z",
+  "analyzeResult": {
+    "version": "2.1.0",
+    "readResults": [{
+      "page": 1,
+      "angle": 0,
+      "width": 1740,
+      "height": 2104,
+      "unit": "pixel",
+      "lines": [{
+        "text": "ABC Goods Ltd",
+        "boundingBox": [670, 189, 1028, 189, 1028, 229, 670, 229],
+        "words": [{
+          "text": "ABC",
+          "boundingBox": [670, 191, 774, 190, 774, 230, 670, 229],
+          "confidence": 0.983
+        }, {
+          "text": "Goods",
+          "boundingBox": [787, 190, 946, 190, 945, 230, 786, 230],
+          "confidence": 0.982
+        }, {
+          "text": "Ltd",
+          "boundingBox": [953, 190, 1029, 190, 1028, 230, 952, 230],
+          "confidence": 0.983
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "55 Main Street, Auckland, 8976 | PO Box 12-345 | Phone: (09) 876 6757",
+        "boundingBox": [420, 268, 1278, 268, 1278, 298, 420, 297],
+        "words": [{
+          "text": "55",
+          "boundingBox": [420, 272, 449, 271, 449, 296, 420, 296],
+          "confidence": 0.987
+        }, {
+          "text": "Main",
+          "boundingBox": [454, 271, 516, 271, 516, 297, 454, 296],
+          "confidence": 0.986
+        }, {
+          "text": "Street,",
+          "boundingBox": [521, 270, 601, 270, 601, 297, 521, 297],
+          "confidence": 0.979
+        }, {
+          "text": "Auckland,",
+          "boundingBox": [606, 270, 725, 269, 725, 298, 606, 297],
+          "confidence": 0.978
+        }, {
+          "text": "8976",
+          "boundingBox": [729, 269, 790, 269, 790, 298, 729, 298],
+          "confidence": 0.986
+        }, {
+          "text": "|",
+          "boundingBox": [795, 269, 806, 269, 806, 298, 795, 298],
+          "confidence": 0.973
+        }, {
+          "text": "PO",
+          "boundingBox": [811, 269, 851, 269, 851, 299, 811, 298],
+          "confidence": 0.987
+        }, {
+          "text": "Box",
+          "boundingBox": [856, 269, 909, 269, 909, 299, 856, 299],
+          "confidence": 0.981
+        }, {
+          "text": "12-345",
+          "boundingBox": [914, 269, 997, 269, 997, 299, 914, 299],
+          "confidence": 0.981
+        }, {
+          "text": "|",
+          "boundingBox": [1002, 269, 1011, 269, 1011, 299, 1002, 299],
+          "confidence": 0.976
+        }, {
+          "text": "Phone:",
+          "boundingBox": [1016, 269, 1103, 269, 1103, 299, 1016, 299],
+          "confidence": 0.982
+        }, {
+          "text": "(09)",
+          "boundingBox": [1108, 269, 1159, 269, 1159, 298, 1108, 299],
+          "confidence": 0.983
+        }, {
+          "text": "876",
+          "boundingBox": [1164, 269, 1210, 270, 1210, 298, 1164, 298],
+          "confidence": 0.987
+        }, {
+          "text": "6757",
+          "boundingBox": [1215, 270, 1277, 270, 1277, 298, 1215, 298],
+          "confidence": 0.986
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "TAX INVOICE",
+        "boundingBox": [1030, 425, 1470, 425, 1470, 481, 1030, 480],
+        "words": [{
+          "text": "TAX",
+          "boundingBox": [1040, 426, 1175, 426, 1173, 481, 1037, 479],
+          "confidence": 0.987
+        }, {
+          "text": "INVOICE",
+          "boundingBox": [1185, 426, 1470, 426, 1469, 481, 1184, 481],
+          "confidence": 0.983
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "TO:",
+        "boundingBox": [218, 457, 266, 458, 266, 482, 218, 480],
+        "words": [{
+          "text": "TO:",
+          "boundingBox": [218, 457, 266, 458, 265, 482, 218, 480],
+          "confidence": 0.986
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.998
+          }
+        }
+      }, {
+        "text": "Jane Buchanan",
+        "boundingBox": [216, 504, 406, 504, 406, 530, 216, 530],
+        "words": [{
+          "text": "Jane",
+          "boundingBox": [217, 505, 276, 504, 275, 530, 217, 531],
+          "confidence": 0.987
+        }, {
+          "text": "Buchanan",
+          "boundingBox": [281, 504, 406, 506, 405, 531, 280, 530],
+          "confidence": 0.984
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Contract Manager",
+        "boundingBox": [218, 539, 435, 542, 434, 570, 217, 566],
+        "words": [{
+          "text": "Contract",
+          "boundingBox": [218, 539, 318, 540, 318, 568, 218, 566],
+          "confidence": 0.983
+        }, {
+          "text": "Manager",
+          "boundingBox": [323, 540, 434, 543, 433, 570, 323, 569],
+          "confidence": 0.985
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "GST number:",
+        "boundingBox": [1049, 538, 1222, 539, 1222, 565, 1049, 564],
+        "words": [{
+          "text": "GST",
+          "boundingBox": [1050, 538, 1104, 539, 1103, 565, 1049, 565],
+          "confidence": 0.987
+        }, {
+          "text": "number:",
+          "boundingBox": [1109, 539, 1223, 540, 1223, 566, 1108, 565],
+          "confidence": 0.984
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "98-765-432",
+        "boundingBox": [1338, 539, 1478, 539, 1478, 564, 1338, 564],
+        "words": [{
+          "text": "98-765-432",
+          "boundingBox": [1338, 539, 1478, 539, 1477, 564, 1339, 564],
+          "confidence": 0.981
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Office Management Team",
+        "boundingBox": [216, 576, 530, 578, 530, 607, 216, 605],
+        "words": [{
+          "text": "Office",
+          "boundingBox": [216, 577, 285, 577, 286, 606, 217, 604],
+          "confidence": 0.983
+        }, {
+          "text": "Management",
+          "boundingBox": [291, 577, 454, 578, 454, 607, 291, 606],
+          "confidence": 0.98
+        }, {
+          "text": "Team",
+          "boundingBox": [459, 578, 526, 578, 526, 605, 459, 607],
+          "confidence": 0.987
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Date of invoice:",
+        "boundingBox": [1019, 574, 1219, 575, 1219, 601, 1019, 599],
+        "words": [{
+          "text": "Date",
+          "boundingBox": [1020, 574, 1080, 575, 1079, 601, 1019, 600],
+          "confidence": 0.983
+        }, {
+          "text": "of",
+          "boundingBox": [1085, 575, 1110, 575, 1110, 601, 1085, 601],
+          "confidence": 0.983
+        }, {
+          "text": "invoice:",
+          "boundingBox": [1116, 575, 1220, 576, 1220, 601, 1115, 601],
+          "confidence": 0.982
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "30 April 2012",
+        "boundingBox": [1318, 574, 1480, 573, 1480, 601, 1318, 602],
+        "words": [{
+          "text": "30",
+          "boundingBox": [1319, 575, 1349, 575, 1349, 602, 1318, 602],
+          "confidence": 0.988
+        }, {
+          "text": "April",
+          "boundingBox": [1355, 575, 1410, 575, 1409, 602, 1354, 602],
+          "confidence": 0.982
+        }, {
+          "text": "2012",
+          "boundingBox": [1415, 575, 1479, 574, 1479, 602, 1415, 602],
+          "confidence": 0.983
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Ministry of Entertainment",
+        "boundingBox": [217, 612, 515, 612, 515, 641, 217, 641],
+        "words": [{
+          "text": "Ministry",
+          "boundingBox": [217, 613, 307, 613, 307, 642, 217, 641],
+          "confidence": 0.983
+        }, {
+          "text": "of",
+          "boundingBox": [313, 613, 336, 613, 337, 642, 313, 642],
+          "confidence": 0.988
+        }, {
+          "text": "Entertainment",
+          "boundingBox": [342, 613, 514, 614, 515, 640, 342, 642],
+          "confidence": 0.976
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Invoice number:",
+        "boundingBox": [1010, 611, 1219, 611, 1219, 637, 1010, 636],
+        "words": [{
+          "text": "Invoice",
+          "boundingBox": [1010, 611, 1104, 612, 1104, 637, 1011, 636],
+          "confidence": 0.951
+        }, {
+          "text": "number:",
+          "boundingBox": [1109, 612, 1220, 612, 1219, 637, 1109, 637],
+          "confidence": 0.983
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "#1",
+        "boundingBox": [1443, 612, 1475, 612, 1475, 633, 1443, 633],
+        "words": [{
+          "text": "#1",
+          "boundingBox": [1444, 612, 1474, 612, 1474, 633, 1444, 633],
+          "confidence": 0.983
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.993
+          }
+        }
+      }, {
+        "text": "PO Box 33-3333",
+        "boundingBox": [218, 647, 417, 648, 417, 676, 218, 675],
+        "words": [{
+          "text": "PO",
+          "boundingBox": [220, 648, 255, 648, 254, 676, 218, 676],
+          "confidence": 0.988
+        }, {
+          "text": "Box",
+          "boundingBox": [260, 648, 308, 649, 307, 676, 259, 676],
+          "confidence": 0.985
+        }, {
+          "text": "33-3333",
+          "boundingBox": [314, 649, 417, 649, 417, 677, 313, 676],
+          "confidence": 0.982
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.999
+          }
+        }
+      }, {
+        "text": "Period covered",
+        "boundingBox": [1026, 647, 1222, 647, 1222, 674, 1026, 673],
+        "words": [{
+          "text": "Period",
+          "boundingBox": [1026, 648, 1109, 648, 1108, 674, 1026, 674],
+          "confidence": 0.983
+        }, {
+          "text": "covered",
+          "boundingBox": [1114, 648, 1223, 648, 1222, 675, 1114, 674],
+          "confidence": 0.985
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "April 2012",
+        "boundingBox": [1355, 648, 1480, 647, 1480, 675, 1355, 676],
+        "words": [{
+          "text": "April",
+          "boundingBox": [1356, 649, 1411, 648, 1411, 676, 1356, 677],
+          "confidence": 0.986
+        }, {
+          "text": "2012",
+          "boundingBox": [1416, 648, 1480, 648, 1481, 676, 1416, 676],
+          "confidence": 0.987
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Wellington",
+        "boundingBox": [217, 685, 348, 687, 348, 715, 217, 712],
+        "words": [{
+          "text": "Wellington",
+          "boundingBox": [218, 685, 348, 688, 348, 714, 219, 712],
+          "confidence": 0.981
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Contract:",
+        "boundingBox": [218, 795, 339, 795, 339, 821, 218, 820],
+        "words": [{
+          "text": "Contract:",
+          "boundingBox": [220, 796, 339, 796, 339, 821, 219, 820],
+          "confidence": 0.982
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "[Insert name of contract]",
+        "boundingBox": [503, 794, 799, 794, 799, 821, 503, 821],
+        "words": [{
+          "text": "[Insert",
+          "boundingBox": [504, 794, 578, 794, 578, 821, 504, 822],
+          "confidence": 0.861
+        }, {
+          "text": "name",
+          "boundingBox": [583, 794, 654, 794, 654, 821, 584, 821],
+          "confidence": 0.986
+        }, {
+          "text": "of",
+          "boundingBox": [660, 794, 681, 794, 681, 821, 659, 821],
+          "confidence": 0.988
+        }, {
+          "text": "contract]",
+          "boundingBox": [687, 794, 799, 794, 799, 822, 687, 821],
+          "confidence": 0.942
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Contract reference #: [if applicable]",
+        "boundingBox": [216, 827, 663, 827, 663, 859, 216, 859],
+        "words": [{
+          "text": "Contract",
+          "boundingBox": [217, 831, 327, 831, 327, 857, 217, 856],
+          "confidence": 0.983
+        }, {
+          "text": "reference",
+          "boundingBox": [332, 831, 456, 830, 455, 859, 332, 858],
+          "confidence": 0.981
+        }, {
+          "text": "#:",
+          "boundingBox": [461, 830, 497, 830, 497, 859, 460, 859],
+          "confidence": 0.985
+        }, {
+          "text": "[if",
+          "boundingBox": [502, 830, 527, 830, 526, 859, 502, 859],
+          "confidence": 0.983
+        }, {
+          "text": "applicable]",
+          "boundingBox": [532, 829, 664, 828, 663, 860, 531, 859],
+          "confidence": 0.961
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Purchase Order #:",
+        "boundingBox": [218, 866, 457, 866, 457, 893, 218, 892],
+        "words": [{
+          "text": "Purchase",
+          "boundingBox": [219, 867, 340, 867, 341, 893, 219, 892],
+          "confidence": 0.983
+        }, {
+          "text": "Order",
+          "boundingBox": [346, 867, 418, 867, 418, 893, 346, 893],
+          "confidence": 0.986
+        }, {
+          "text": "#:",
+          "boundingBox": [423, 867, 457, 866, 457, 894, 423, 893],
+          "confidence": 0.988
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "[if applicable]",
+        "boundingBox": [504, 863, 664, 862, 664, 897, 504, 898],
+        "words": [{
+          "text": "[if",
+          "boundingBox": [505, 864, 521, 864, 521, 898, 505, 898],
+          "confidence": 0.983
+        }, {
+          "text": "applicable]",
+          "boundingBox": [528, 864, 664, 863, 665, 897, 527, 898],
+          "confidence": 0.968
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Description",
+        "boundingBox": [411, 954, 561, 955, 561, 983, 410, 983],
+        "words": [{
+          "text": "Description",
+          "boundingBox": [411, 954, 561, 956, 561, 984, 411, 984],
+          "confidence": 0.981
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Quantity",
+        "boundingBox": [788, 956, 902, 957, 902, 985, 787, 983],
+        "words": [{
+          "text": "Quantity",
+          "boundingBox": [788, 957, 902, 958, 901, 986, 788, 983],
+          "confidence": 0.981
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Unit Price",
+        "boundingBox": [941, 942, 1071, 943, 1071, 969, 941, 967],
+        "words": [{
+          "text": "Unit",
+          "boundingBox": [942, 943, 996, 943, 996, 968, 942, 968],
+          "confidence": 0.987
+        }, {
+          "text": "Price",
+          "boundingBox": [1001, 943, 1071, 945, 1071, 969, 1001, 968],
+          "confidence": 0.986
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "exc GST",
+        "boundingBox": [963, 976, 1047, 973, 1048, 995, 963, 997],
+        "words": [{
+          "text": "exc",
+          "boundingBox": [963, 978, 997, 976, 997, 996, 963, 997],
+          "confidence": 0.986
+        }, {
+          "text": "GST",
+          "boundingBox": [1001, 976, 1047, 974, 1047, 996, 1001, 996],
+          "confidence": 0.987
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Amount",
+        "boundingBox": [1129, 956, 1230, 956, 1230, 980, 1129, 980],
+        "words": [{
+          "text": "Amount",
+          "boundingBox": [1129, 957, 1230, 957, 1230, 981, 1129, 981],
+          "confidence": 0.985
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Delivered",
+        "boundingBox": [1320, 956, 1441, 956, 1441, 981, 1320, 982],
+        "words": [{
+          "text": "Delivered",
+          "boundingBox": [1321, 957, 1441, 957, 1440, 982, 1320, 983],
+          "confidence": 0.981
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Office Chairs (ref:CHA12445)",
+        "boundingBox": [215, 1010, 567, 1010, 567, 1038, 215, 1037],
+        "words": [{
+          "text": "Office",
+          "boundingBox": [216, 1010, 288, 1010, 288, 1038, 216, 1037],
+          "confidence": 0.985
+        }, {
+          "text": "Chairs",
+          "boundingBox": [293, 1010, 371, 1010, 371, 1038, 293, 1038],
+          "confidence": 0.968
+        }, {
+          "text": "(ref:CHA12445)",
+          "boundingBox": [376, 1010, 566, 1011, 566, 1038, 376, 1038],
+          "confidence": 0.951
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "10",
+        "boundingBox": [829, 1015, 859, 1014, 859, 1036, 830, 1037],
+        "words": [{
+          "text": "10",
+          "boundingBox": [830, 1015, 858, 1014, 858, 1036, 830, 1037],
+          "confidence": 0.988
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "$105.00",
+        "boundingBox": [975, 1013, 1076, 1013, 1076, 1037, 975, 1038],
+        "words": [{
+          "text": "$105.00",
+          "boundingBox": [975, 1013, 1075, 1013, 1075, 1038, 976, 1039],
+          "confidence": 0.976
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "$1,050.00",
+        "boundingBox": [1149, 1011, 1274, 1011, 1274, 1036, 1149, 1037],
+        "words": [{
+          "text": "$1,050.00",
+          "boundingBox": [1149, 1012, 1274, 1012, 1274, 1037, 1151, 1037],
+          "confidence": 0.939
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "2 April 2011",
+        "boundingBox": [1331, 1012, 1476, 1012, 1476, 1039, 1331, 1039],
+        "words": [{
+          "text": "2",
+          "boundingBox": [1331, 1013, 1349, 1013, 1350, 1040, 1332, 1040],
+          "confidence": 0.987
+        }, {
+          "text": "April",
+          "boundingBox": [1354, 1013, 1411, 1013, 1411, 1040, 1355, 1040],
+          "confidence": 0.984
+        }, {
+          "text": "2011",
+          "boundingBox": [1416, 1013, 1477, 1013, 1476, 1040, 1416, 1040],
+          "confidence": 0.987
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Freeform tables (ref:TAB23112)",
+        "boundingBox": [217, 1055, 596, 1055, 596, 1086, 217, 1085],
+        "words": [{
+          "text": "Freeform",
+          "boundingBox": [218, 1057, 323, 1056, 324, 1086, 219, 1085],
+          "confidence": 0.982
+        }, {
+          "text": "tables",
+          "boundingBox": [329, 1056, 403, 1056, 403, 1086, 330, 1086],
+          "confidence": 0.981
+        }, {
+          "text": "(ref:TAB23112)",
+          "boundingBox": [409, 1056, 596, 1056, 596, 1087, 409, 1086],
+          "confidence": 0.951
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "12",
+        "boundingBox": [830, 1060, 858, 1060, 858, 1085, 830, 1084],
+        "words": [{
+          "text": "12",
+          "boundingBox": [830, 1060, 857, 1060, 856, 1085, 830, 1084],
+          "confidence": 0.983
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.995
+          }
+        }
+      }, {
+        "text": "$150.00",
+        "boundingBox": [974, 1058, 1075, 1058, 1075, 1084, 974, 1085],
+        "words": [{
+          "text": "$150.00",
+          "boundingBox": [974, 1059, 1075, 1059, 1074, 1085, 975, 1086],
+          "confidence": 0.983
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "$1,800.00",
+        "boundingBox": [1149, 1056, 1274, 1056, 1274, 1083, 1149, 1083],
+        "words": [{
+          "text": "$1,800.00",
+          "boundingBox": [1150, 1057, 1274, 1057, 1274, 1084, 1151, 1084],
+          "confidence": 0.954
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "20 April 2011",
+        "boundingBox": [1318, 1056, 1475, 1055, 1475, 1089, 1318, 1090],
+        "words": [{
+          "text": "20",
+          "boundingBox": [1319, 1056, 1346, 1056, 1346, 1090, 1319, 1091],
+          "confidence": 0.987
+        }, {
+          "text": "April",
+          "boundingBox": [1352, 1056, 1406, 1056, 1406, 1090, 1353, 1090],
+          "confidence": 0.985
+        }, {
+          "text": "2011",
+          "boundingBox": [1413, 1056, 1474, 1055, 1474, 1090, 1413, 1090],
+          "confidence": 0.983
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.999
+          }
+        }
+      }, {
+        "text": "Shelving (ref:SHE29348)",
+        "boundingBox": [217, 1102, 511, 1102, 511, 1131, 217, 1132],
+        "words": [{
+          "text": "Shelving",
+          "boundingBox": [217, 1104, 318, 1103, 318, 1132, 217, 1132],
+          "confidence": 0.983
+        }, {
+          "text": "(ref:SHE29348)",
+          "boundingBox": [324, 1103, 511, 1102, 511, 1131, 323, 1132],
+          "confidence": 0.907
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "5",
+        "boundingBox": [835, 1106, 853, 1107, 852, 1129, 834, 1128],
+        "words": [{
+          "text": "5",
+          "boundingBox": [835, 1106, 853, 1107, 851, 1129, 834, 1128],
+          "confidence": 0.987
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "$75.00",
+        "boundingBox": [989, 1105, 1075, 1105, 1076, 1130, 990, 1131],
+        "words": [{
+          "text": "$75.00",
+          "boundingBox": [990, 1105, 1075, 1105, 1075, 1130, 991, 1132],
+          "confidence": 0.976
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "$375.00",
+        "boundingBox": [1174, 1103, 1274, 1103, 1274, 1128, 1174, 1128],
+        "words": [{
+          "text": "$375.00",
+          "boundingBox": [1175, 1104, 1274, 1103, 1274, 1129, 1175, 1129],
+          "confidence": 0.984
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "25 April 2011",
+        "boundingBox": [1318, 1104, 1476, 1104, 1476, 1132, 1318, 1132],
+        "words": [{
+          "text": "25",
+          "boundingBox": [1319, 1105, 1349, 1105, 1349, 1133, 1318, 1132],
+          "confidence": 0.988
+        }, {
+          "text": "April",
+          "boundingBox": [1354, 1105, 1410, 1105, 1410, 1133, 1354, 1133],
+          "confidence": 0.985
+        }, {
+          "text": "2011",
+          "boundingBox": [1415, 1105, 1476, 1104, 1476, 1132, 1415, 1133],
+          "confidence": 0.982
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "total",
+        "boundingBox": [1017, 1147, 1074, 1147, 1074, 1170, 1017, 1170],
+        "words": [{
+          "text": "total",
+          "boundingBox": [1017, 1147, 1074, 1147, 1074, 1170, 1017, 1170],
+          "confidence": 0.986
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "$3,225.00",
+        "boundingBox": [1152, 1144, 1274, 1144, 1274, 1169, 1152, 1169],
+        "words": [{
+          "text": "$3,225.00",
+          "boundingBox": [1153, 1144, 1274, 1145, 1274, 1169, 1152, 1170],
+          "confidence": 0.966
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "plus GST due",
+        "boundingBox": [901, 1181, 1074, 1180, 1074, 1207, 901, 1209],
+        "words": [{
+          "text": "plus",
+          "boundingBox": [901, 1183, 958, 1181, 958, 1208, 902, 1210],
+          "confidence": 0.983
+        }, {
+          "text": "GST",
+          "boundingBox": [963, 1181, 1018, 1181, 1018, 1207, 963, 1208],
+          "confidence": 0.987
+        }, {
+          "text": "due",
+          "boundingBox": [1023, 1181, 1074, 1182, 1074, 1207, 1023, 1207],
+          "confidence": 0.987
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "$483.75",
+        "boundingBox": [1173, 1180, 1272, 1180, 1272, 1206, 1173, 1206],
+        "words": [{
+          "text": "$483.75",
+          "boundingBox": [1173, 1181, 1271, 1181, 1272, 1206, 1174, 1207],
+          "confidence": 0.983
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "total including GST",
+        "boundingBox": [823, 1216, 1074, 1216, 1074, 1244, 823, 1244],
+        "words": [{
+          "text": "total",
+          "boundingBox": [823, 1217, 885, 1218, 885, 1245, 825, 1243],
+          "confidence": 0.986
+        }, {
+          "text": "including",
+          "boundingBox": [890, 1218, 1012, 1217, 1012, 1245, 891, 1245],
+          "confidence": 0.98
+        }, {
+          "text": "GST",
+          "boundingBox": [1017, 1217, 1073, 1216, 1073, 1244, 1018, 1245],
+          "confidence": 0.987
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "$3,708.75",
+        "boundingBox": [1152, 1217, 1274, 1217, 1274, 1242, 1152, 1243],
+        "words": [{
+          "text": "$3,708.75",
+          "boundingBox": [1153, 1218, 1274, 1218, 1274, 1242, 1153, 1244],
+          "confidence": 0.969
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "less 10% discount",
+        "boundingBox": [839, 1252, 1076, 1253, 1076, 1280, 839, 1279],
+        "words": [{
+          "text": "less",
+          "boundingBox": [839, 1253, 898, 1253, 897, 1280, 839, 1279],
+          "confidence": 0.939
+        }, {
+          "text": "10%",
+          "boundingBox": [903, 1253, 954, 1253, 954, 1280, 903, 1280],
+          "confidence": 0.983
+        }, {
+          "text": "discount",
+          "boundingBox": [959, 1253, 1076, 1254, 1076, 1280, 959, 1280],
+          "confidence": 0.977
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "$370.88",
+        "boundingBox": [1173, 1253, 1272, 1252, 1272, 1277, 1173, 1278],
+        "words": [{
+          "text": "$370.88",
+          "boundingBox": [1174, 1254, 1272, 1253, 1272, 1278, 1174, 1279],
+          "confidence": 0.984
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "balance left to pay",
+        "boundingBox": [814, 1289, 1074, 1290, 1074, 1319, 814, 1316],
+        "words": [{
+          "text": "balance",
+          "boundingBox": [815, 1290, 927, 1289, 928, 1318, 816, 1316],
+          "confidence": 0.984
+        }, {
+          "text": "left",
+          "boundingBox": [932, 1289, 978, 1290, 979, 1319, 933, 1318],
+          "confidence": 0.982
+        }, {
+          "text": "to",
+          "boundingBox": [983, 1290, 1013, 1290, 1014, 1320, 984, 1319],
+          "confidence": 0.988
+        }, {
+          "text": "pay",
+          "boundingBox": [1018, 1290, 1073, 1291, 1073, 1320, 1019, 1320],
+          "confidence": 0.987
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "$3,337.88",
+        "boundingBox": [1152, 1292, 1273, 1292, 1273, 1317, 1152, 1317],
+        "words": [{
+          "text": "$3,337.88",
+          "boundingBox": [1152, 1293, 1273, 1292, 1273, 1317, 1153, 1318],
+          "confidence": 0.968
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "For direct bank payment",
+        "boundingBox": [216, 1594, 497, 1595, 496, 1622, 216, 1620],
+        "words": [{
+          "text": "For",
+          "boundingBox": [217, 1595, 254, 1595, 254, 1620, 217, 1620],
+          "confidence": 0.987
+        }, {
+          "text": "direct",
+          "boundingBox": [259, 1595, 326, 1595, 326, 1621, 259, 1620],
+          "confidence": 0.984
+        }, {
+          "text": "bank",
+          "boundingBox": [331, 1595, 390, 1595, 389, 1622, 331, 1621],
+          "confidence": 0.983
+        }, {
+          "text": "payment",
+          "boundingBox": [394, 1595, 497, 1596, 497, 1622, 394, 1622],
+          "confidence": 0.985
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Queries",
+        "boundingBox": [934, 1595, 1027, 1595, 1027, 1619, 934, 1619],
+        "words": [{
+          "text": "Queries",
+          "boundingBox": [935, 1596, 1026, 1596, 1026, 1620, 935, 1620],
+          "confidence": 0.985
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Account name: ABC Goods Limited",
+        "boundingBox": [217, 1625, 595, 1625, 595, 1649, 217, 1650],
+        "words": [{
+          "text": "Account",
+          "boundingBox": [218, 1626, 302, 1626, 301, 1651, 217, 1650],
+          "confidence": 0.984
+        }, {
+          "text": "name:",
+          "boundingBox": [306, 1626, 376, 1625, 376, 1651, 306, 1651],
+          "confidence": 0.985
+        }, {
+          "text": "ABC",
+          "boundingBox": [381, 1625, 433, 1625, 433, 1651, 381, 1651],
+          "confidence": 0.987
+        }, {
+          "text": "Goods",
+          "boundingBox": [438, 1625, 507, 1625, 507, 1650, 438, 1651],
+          "confidence": 0.981
+        }, {
+          "text": "Limited",
+          "boundingBox": [512, 1625, 594, 1625, 595, 1650, 512, 1650],
+          "confidence": 0.981
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "If you have any queries concerning this invoice",
+        "boundingBox": [935, 1626, 1431, 1624, 1431, 1652, 935, 1653],
+        "words": [{
+          "text": "If",
+          "boundingBox": [936, 1626, 948, 1626, 948, 1652, 936, 1652],
+          "confidence": 0.983
+        }, {
+          "text": "you",
+          "boundingBox": [953, 1626, 992, 1626, 992, 1653, 953, 1652],
+          "confidence": 0.987
+        }, {
+          "text": "have",
+          "boundingBox": [997, 1626, 1051, 1626, 1051, 1653, 997, 1653],
+          "confidence": 0.976
+        }, {
+          "text": "any",
+          "boundingBox": [1056, 1626, 1095, 1626, 1095, 1653, 1056, 1653],
+          "confidence": 0.987
+        }, {
+          "text": "queries",
+          "boundingBox": [1100, 1626, 1179, 1626, 1179, 1653, 1100, 1653],
+          "confidence": 0.981
+        }, {
+          "text": "concerning",
+          "boundingBox": [1184, 1626, 1300, 1626, 1300, 1653, 1184, 1653],
+          "confidence": 0.978
+        }, {
+          "text": "this",
+          "boundingBox": [1306, 1626, 1346, 1625, 1346, 1652, 1305, 1653],
+          "confidence": 0.986
+        }, {
+          "text": "invoice",
+          "boundingBox": [1351, 1625, 1430, 1625, 1430, 1651, 1351, 1652],
+          "confidence": 0.984
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Account number: 00 234 4545 455 02",
+        "boundingBox": [216, 1655, 618, 1655, 618, 1679, 216, 1678],
+        "words": [{
+          "text": "Account",
+          "boundingBox": [217, 1655, 302, 1655, 302, 1679, 217, 1679],
+          "confidence": 0.984
+        }, {
+          "text": "number:",
+          "boundingBox": [307, 1655, 396, 1655, 396, 1679, 306, 1679],
+          "confidence": 0.983
+        }, {
+          "text": "00",
+          "boundingBox": [401, 1655, 431, 1655, 431, 1679, 401, 1679],
+          "confidence": 0.988
+        }, {
+          "text": "234",
+          "boundingBox": [436, 1655, 475, 1655, 475, 1679, 435, 1679],
+          "confidence": 0.987
+        }, {
+          "text": "4545",
+          "boundingBox": [479, 1655, 534, 1656, 534, 1679, 479, 1679],
+          "confidence": 0.985
+        }, {
+          "text": "455",
+          "boundingBox": [539, 1656, 581, 1656, 581, 1679, 539, 1679],
+          "confidence": 0.986
+        }, {
+          "text": "02",
+          "boundingBox": [586, 1656, 618, 1656, 618, 1679, 586, 1679],
+          "confidence": 0.987
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "please contact:",
+        "boundingBox": [934, 1657, 1102, 1656, 1102, 1679, 935, 1681],
+        "words": [{
+          "text": "please",
+          "boundingBox": [935, 1658, 1005, 1656, 1005, 1681, 935, 1682],
+          "confidence": 0.985
+        }, {
+          "text": "contact:",
+          "boundingBox": [1010, 1656, 1102, 1656, 1102, 1679, 1010, 1681],
+          "confidence": 0.981
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "John Smith",
+        "boundingBox": [935, 1685, 1057, 1684, 1057, 1709, 935, 1709],
+        "words": [{
+          "text": "John",
+          "boundingBox": [936, 1685, 989, 1685, 989, 1709, 935, 1709],
+          "confidence": 0.987
+        }, {
+          "text": "Smith",
+          "boundingBox": [994, 1685, 1057, 1685, 1056, 1710, 993, 1709],
+          "confidence": 0.986
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "For payment by cheque",
+        "boundingBox": [217, 1714, 487, 1715, 487, 1743, 217, 1742],
+        "words": [{
+          "text": "For",
+          "boundingBox": [218, 1716, 254, 1715, 254, 1743, 218, 1742],
+          "confidence": 0.987
+        }, {
+          "text": "payment",
+          "boundingBox": [259, 1715, 358, 1715, 359, 1743, 259, 1743],
+          "confidence": 0.982
+        }, {
+          "text": "by",
+          "boundingBox": [364, 1715, 393, 1715, 393, 1743, 364, 1743],
+          "confidence": 0.988
+        }, {
+          "text": "cheque",
+          "boundingBox": [398, 1715, 487, 1717, 487, 1742, 399, 1743],
+          "confidence": 0.985
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "(09) 876 6758",
+        "boundingBox": [936, 1714, 1087, 1714, 1087, 1738, 936, 1740],
+        "words": [{
+          "text": "(09)",
+          "boundingBox": [937, 1715, 978, 1714, 978, 1740, 936, 1741],
+          "confidence": 0.983
+        }, {
+          "text": "876",
+          "boundingBox": [983, 1714, 1024, 1714, 1024, 1739, 983, 1740],
+          "confidence": 0.987
+        }, {
+          "text": "6758",
+          "boundingBox": [1029, 1714, 1087, 1714, 1087, 1738, 1029, 1739],
+          "confidence": 0.987
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Made payable to: ABC Goods Limited",
+        "boundingBox": [215, 1745, 616, 1745, 616, 1771, 215, 1772],
+        "words": [{
+          "text": "Made",
+          "boundingBox": [216, 1746, 274, 1746, 273, 1773, 216, 1773],
+          "confidence": 0.986
+        }, {
+          "text": "payable",
+          "boundingBox": [279, 1746, 363, 1745, 362, 1773, 278, 1773],
+          "confidence": 0.984
+        }, {
+          "text": "to:",
+          "boundingBox": [368, 1745, 398, 1745, 397, 1772, 367, 1773],
+          "confidence": 0.986
+        }, {
+          "text": "ABC",
+          "boundingBox": [403, 1745, 454, 1745, 453, 1772, 402, 1772],
+          "confidence": 0.983
+        }, {
+          "text": "Goods",
+          "boundingBox": [459, 1745, 529, 1745, 528, 1771, 458, 1772],
+          "confidence": 0.983
+        }, {
+          "text": "Limited",
+          "boundingBox": [534, 1745, 616, 1746, 615, 1770, 533, 1771],
+          "confidence": 0.939
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "john.smith@abcgoods.co.nz",
+        "boundingBox": [934, 1745, 1238, 1745, 1238, 1771, 934, 1771],
+        "words": [{
+          "text": "john.smith@abcgoods.co.nz",
+          "boundingBox": [935, 1746, 1238, 1746, 1237, 1771, 934, 1771],
+          "confidence": 0.944
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }, {
+        "text": "Address to: Accounts Receivable",
+        "boundingBox": [217, 1774, 569, 1774, 569, 1800, 217, 1800],
+        "words": [{
+          "text": "Address",
+          "boundingBox": [218, 1776, 303, 1775, 303, 1800, 217, 1800],
+          "confidence": 0.979
+        }, {
+          "text": "to:",
+          "boundingBox": [307, 1775, 339, 1775, 338, 1801, 307, 1800],
+          "confidence": 0.986
+        }, {
+          "text": "Accounts",
+          "boundingBox": [343, 1775, 444, 1775, 444, 1801, 343, 1801],
+          "confidence": 0.982
+        }, {
+          "text": "Receivable",
+          "boundingBox": [449, 1775, 570, 1776, 569, 1800, 448, 1801],
+          "confidence": 0.981
+        }],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 1
+          }
+        }
+      }]
+    }],
+    "pageResults": [{
+      "page": 1,
+      "tables": [{
+        "rows": 4,
+        "columns": 5,
+        "cells": [{
+          "rowIndex": 0,
+          "columnIndex": 0,
+          "text": "Description",
+          "boundingBox": [207, 935, 692, 935, 692, 1001, 205, 1001],
+          "elements": ["#/readResults/0/lines/23/words/0"]
+        }, {
+          "rowIndex": 0,
+          "columnIndex": 1,
+          "text": "Quantity",
+          "boundingBox": [692, 935, 921, 935, 921, 1001, 692, 1001],
+          "elements": ["#/readResults/0/lines/24/words/0"]
+        }, {
+          "rowIndex": 0,
+          "columnIndex": 2,
+          "text": "Unit Price exc GST",
+          "boundingBox": [921, 935, 1102, 935, 1102, 1001, 921, 1001],
+          "elements": ["#/readResults/0/lines/25/words/0", "#/readResults/0/lines/25/words/1", "#/readResults/0/lines/26/words/0", "#/readResults/0/lines/26/words/1"]
+        }, {
+          "rowIndex": 0,
+          "columnIndex": 3,
+          "text": "Amount",
+          "boundingBox": [1102, 935, 1297, 935, 1297, 1001, 1102, 1001],
+          "elements": ["#/readResults/0/lines/27/words/0"]
+        }, {
+          "rowIndex": 0,
+          "columnIndex": 4,
+          "text": "Delivered",
+          "boundingBox": [1297, 935, 1489, 935, 1489, 1002, 1297, 1001],
+          "elements": ["#/readResults/0/lines/28/words/0"]
+        }, {
+          "rowIndex": 1,
+          "columnIndex": 0,
+          "text": "Office Chairs (ref:CHA12445)",
+          "boundingBox": [205, 1001, 692, 1001, 694, 1047, 205, 1047],
+          "elements": ["#/readResults/0/lines/29/words/0", "#/readResults/0/lines/29/words/1", "#/readResults/0/lines/29/words/2"]
+        }, {
+          "rowIndex": 1,
+          "columnIndex": 1,
+          "text": "10",
+          "boundingBox": [692, 1001, 921, 1001, 921, 1047, 694, 1047],
+          "elements": ["#/readResults/0/lines/30/words/0"]
+        }, {
+          "rowIndex": 1,
+          "columnIndex": 2,
+          "text": "$105.00",
+          "boundingBox": [921, 1001, 1102, 1001, 1103, 1047, 921, 1047],
+          "elements": ["#/readResults/0/lines/31/words/0"]
+        }, {
+          "rowIndex": 1,
+          "columnIndex": 3,
+          "text": "$1,050.00",
+          "boundingBox": [1102, 1001, 1297, 1001, 1298, 1047, 1103, 1047],
+          "elements": ["#/readResults/0/lines/32/words/0"]
+        }, {
+          "rowIndex": 1,
+          "columnIndex": 4,
+          "text": "2 April 2011",
+          "boundingBox": [1297, 1001, 1489, 1002, 1489, 1049, 1298, 1047],
+          "elements": ["#/readResults/0/lines/33/words/0", "#/readResults/0/lines/33/words/1", "#/readResults/0/lines/33/words/2"]
+        }, {
+          "rowIndex": 2,
+          "columnIndex": 0,
+          "text": "Freeform tables (ref:TAB23112)",
+          "boundingBox": [205, 1047, 694, 1047, 694, 1094, 205, 1094],
+          "elements": ["#/readResults/0/lines/34/words/0", "#/readResults/0/lines/34/words/1", "#/readResults/0/lines/34/words/2"]
+        }, {
+          "rowIndex": 2,
+          "columnIndex": 1,
+          "text": "12",
+          "boundingBox": [694, 1047, 921, 1047, 921, 1094, 694, 1094],
+          "elements": ["#/readResults/0/lines/35/words/0"]
+        }, {
+          "rowIndex": 2,
+          "columnIndex": 2,
+          "text": "$150.00",
+          "boundingBox": [921, 1047, 1103, 1047, 1103, 1094, 921, 1094],
+          "elements": ["#/readResults/0/lines/36/words/0"]
+        }, {
+          "rowIndex": 2,
+          "columnIndex": 3,
+          "text": "$1,800.00",
+          "boundingBox": [1103, 1047, 1298, 1047, 1298, 1095, 1103, 1094],
+          "elements": ["#/readResults/0/lines/37/words/0"]
+        }, {
+          "rowIndex": 2,
+          "columnIndex": 4,
+          "text": "20 April 2011",
+          "boundingBox": [1298, 1047, 1489, 1049, 1489, 1097, 1298, 1095],
+          "elements": ["#/readResults/0/lines/38/words/0", "#/readResults/0/lines/38/words/1", "#/readResults/0/lines/38/words/2"]
+        }, {
+          "rowIndex": 3,
+          "columnIndex": 0,
+          "text": "Shelving (ref:SHE29348)",
+          "boundingBox": [205, 1094, 694, 1094, 694, 1140, 205, 1140],
+          "elements": ["#/readResults/0/lines/39/words/0", "#/readResults/0/lines/39/words/1"]
+        }, {
+          "rowIndex": 3,
+          "columnIndex": 1,
+          "text": "5",
+          "boundingBox": [694, 1094, 921, 1094, 923, 1140, 694, 1140],
+          "elements": ["#/readResults/0/lines/40/words/0"]
+        }, {
+          "rowIndex": 3,
+          "columnIndex": 2,
+          "text": "$75.00",
+          "boundingBox": [921, 1094, 1103, 1094, 1103, 1140, 923, 1140],
+          "elements": ["#/readResults/0/lines/41/words/0"]
+        }, {
+          "rowIndex": 3,
+          "columnIndex": 3,
+          "text": "$375.00",
+          "boundingBox": [1103, 1094, 1298, 1095, 1298, 1140, 1103, 1140],
+          "elements": ["#/readResults/0/lines/42/words/0"]
+        }, {
+          "rowIndex": 3,
+          "columnIndex": 4,
+          "text": "25 April 2011",
+          "boundingBox": [1298, 1095, 1489, 1097, 1489, 1141, 1298, 1140],
+          "elements": ["#/readResults/0/lines/43/words/0", "#/readResults/0/lines/43/words/1", "#/readResults/0/lines/43/words/2"]
+        }],
+        "boundingBox": [208, 930, 1491, 930, 1491, 1148, 208, 1148]
+      }]
+    }],
+    "documentResults": [{
+      "docType": "prebuilt:invoice",
+      "pageRange": [1, 1],
+      "fields": {
+        "AmountDue": {
+          "type": "number",
+          "valueNumber": 3337.88,
+          "text": "$3,337.88",
+          "boundingBox": [1152, 1293, 1273, 1292, 1273, 1317, 1153, 1318],
+          "page": 1,
+          "confidence": 0.557,
+          "elements": ["#/readResults/0/lines/53/words/0"]
+        },
+        "CustomerAddress": {
+          "type": "string",
+          "valueString": "PO Box 33-3333 Wellington",
+          "text": "PO Box 33-3333 Wellington",
+          "boundingBox": [218.3, 646.9, 417.3, 649, 416.6, 714.7, 217.6, 712.6],
+          "page": 1,
+          "confidence": 0.976,
+          "elements": ["#/readResults/0/lines/14/words/0", "#/readResults/0/lines/14/words/1", "#/readResults/0/lines/14/words/2", "#/readResults/0/lines/17/words/0"]
+        },
+        "CustomerAddressRecipient": {
+          "type": "string",
+          "valueString": "Jane Buchanan Contract Manager Office Management Team Ministry of Entertainment",
+          "text": "Jane Buchanan Contract Manager Office Management Team Ministry of Entertainment",
+          "boundingBox": [216.5, 503.6, 526.6, 505.5, 525.8, 643.3, 215.6, 641.4],
+          "page": 1,
+          "confidence": 0.974,
+          "elements": ["#/readResults/0/lines/4/words/0", "#/readResults/0/lines/4/words/1", "#/readResults/0/lines/5/words/0", "#/readResults/0/lines/5/words/1", "#/readResults/0/lines/8/words/0", "#/readResults/0/lines/8/words/1", "#/readResults/0/lines/8/words/2", "#/readResults/0/lines/11/words/0", "#/readResults/0/lines/11/words/1", "#/readResults/0/lines/11/words/2"]
+        },
+        "CustomerId": {
+          "type": "string",
+          "valueString": "00 234 4545 455 02",
+          "text": "00 234 4545 455 02",
+          "boundingBox": [401, 1655, 618, 1655, 618, 1679, 401, 1679],
+          "page": 1,
+          "confidence": 0.933,
+          "elements": ["#/readResults/0/lines/58/words/2", "#/readResults/0/lines/58/words/3", "#/readResults/0/lines/58/words/4", "#/readResults/0/lines/58/words/5", "#/readResults/0/lines/58/words/6"]
+        },
+        "CustomerName": {
+          "type": "string",
+          "valueString": "Jane Buchanan Contract Manager Office Management Team Ministry of Entertainment",
+          "text": "Jane Buchanan Contract Manager Office Management Team Ministry of Entertainment",
+          "boundingBox": [216.5, 503.6, 526.6, 505.5, 525.8, 643.3, 215.6, 641.4],
+          "page": 1,
+          "confidence": 0.974,
+          "elements": ["#/readResults/0/lines/4/words/0", "#/readResults/0/lines/4/words/1", "#/readResults/0/lines/5/words/0", "#/readResults/0/lines/5/words/1", "#/readResults/0/lines/8/words/0", "#/readResults/0/lines/8/words/1", "#/readResults/0/lines/8/words/2", "#/readResults/0/lines/11/words/0", "#/readResults/0/lines/11/words/1", "#/readResults/0/lines/11/words/2"]
+        },
+        "InvoiceDate": {
+          "type": "date",
+          "valueDate": "2012-04-30",
+          "text": "30 April 2012",
+          "boundingBox": [1318, 574, 1479, 574, 1479, 602, 1318, 602],
+          "page": 1,
+          "confidence": 0.986,
+          "elements": ["#/readResults/0/lines/10/words/0", "#/readResults/0/lines/10/words/1", "#/readResults/0/lines/10/words/2"]
+        },
+        "InvoiceId": {
+          "type": "string",
+          "valueString": "#1",
+          "text": "#1",
+          "boundingBox": [1444, 612, 1474, 612, 1474, 633, 1444, 633],
+          "page": 1,
+          "confidence": 0.997,
+          "elements": ["#/readResults/0/lines/13/words/0"]
+        },
+        "InvoiceTotal": {
+          "type": "number",
+          "valueNumber": 3708.75,
+          "text": "$3,708.75",
+          "boundingBox": [1153, 1218, 1274, 1218, 1274, 1242, 1153, 1244],
+          "page": 1,
+          "confidence": 0.4,
+          "elements": ["#/readResults/0/lines/49/words/0"]
+        },
+        "RemittanceAddressRecipient": {
+          "type": "string",
+          "valueString": "ABC Goods Limited Accounts Receivable",
+          "text": "ABC Goods Limited Accounts Receivable",
+          "boundingBox": [343, 1745, 616, 1745, 616, 1801, 343, 1801],
+          "page": 1,
+          "confidence": 0.732,
+          "elements": ["#/readResults/0/lines/63/words/3", "#/readResults/0/lines/63/words/4", "#/readResults/0/lines/63/words/5", "#/readResults/0/lines/65/words/2", "#/readResults/0/lines/65/words/3"]
+        },
+        "ServiceStartDate": {
+          "type": "date",
+          "valueDate": "2012-04-01",
+          "text": "April 2012",
+          "boundingBox": [1356, 648, 1481, 648, 1481, 677, 1356, 677],
+          "page": 1,
+          "confidence": 0.963,
+          "elements": ["#/readResults/0/lines/16/words/0", "#/readResults/0/lines/16/words/1"]
+        },
+        "SubTotal": {
+          "type": "number",
+          "valueNumber": 3225,
+          "text": "$3,225.00",
+          "boundingBox": [1153, 1144, 1274, 1145, 1274, 1169, 1152, 1170],
+          "page": 1,
+          "confidence": 0.894,
+          "elements": ["#/readResults/0/lines/45/words/0"]
+        },
+        "TotalTax": {
+          "type": "number",
+          "valueNumber": 483.75,
+          "text": "$483.75",
+          "boundingBox": [1173, 1181, 1271, 1181, 1272, 1206, 1174, 1207],
+          "page": 1,
+          "confidence": 0.964,
+          "elements": ["#/readResults/0/lines/47/words/0"]
+        },
+        "VendorAddress": {
+          "type": "string",
+          "valueString": "55 Main Street, Auckland, 8976 | PO Box 12-345",
+          "text": "55 Main Street, Auckland, 8976 | PO Box 12-345",
+          "boundingBox": [420, 269, 997, 269, 997, 299, 420, 299],
+          "page": 1,
+          "confidence": 0.941,
+          "elements": ["#/readResults/0/lines/1/words/0", "#/readResults/0/lines/1/words/1", "#/readResults/0/lines/1/words/2", "#/readResults/0/lines/1/words/3", "#/readResults/0/lines/1/words/4", "#/readResults/0/lines/1/words/5", "#/readResults/0/lines/1/words/6", "#/readResults/0/lines/1/words/7", "#/readResults/0/lines/1/words/8"]
+        },
+        "VendorName": {
+          "type": "string",
+          "valueString": "ABC Goods Ltd",
+          "text": "ABC Goods Ltd",
+          "boundingBox": [670, 190, 1029, 190, 1029, 230, 670, 230],
+          "page": 1,
+          "confidence": 0.986,
+          "elements": ["#/readResults/0/lines/0/words/0", "#/readResults/0/lines/0/words/1", "#/readResults/0/lines/0/words/2"]
+        }
+      }
+    }]
+  }
+}
